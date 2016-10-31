@@ -6,7 +6,7 @@
 // else
 // echo "Function not found or wrong input";
 
-$person = $_POST["messageboxtext"] . "\n";
+$person = $_POST["message"] . "\n";
 $messages =  explode(" ", $person);
 // Write the contents to the file,
 // using the FILE_APPEND flag to append the content to the end of the file
