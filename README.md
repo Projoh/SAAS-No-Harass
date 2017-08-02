@@ -1,5 +1,5 @@
 # SAAS-No-Harass
-A anti harassment web service that reutnrs the likelehood of a a message being harassment.
+A anti harassment web service that returns the likelehood of a a message being harassment.
 
 
 # How to use
